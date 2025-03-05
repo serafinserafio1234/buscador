@@ -46,7 +46,7 @@ add_shortcode('hola_mundo', 'my_custom_plugin_shortcode');
 
 // Encolar estilos personalizados
 function my_custom_plugin_enqueue_styles() {
-    wp_enqueue_style('my-custom-plugin-styles', plugin_dir_url(__FILE__) . 'css/custom-styles.css');
+    wp_enqueue_style('my-custom-plugin-styles', plugin_dir_url(__FILE__) . 'custom-styles.css');
 }
 add_action('admin_enqueue_scripts', 'my_custom_plugin_enqueue_styles');
 ?>
