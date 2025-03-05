@@ -1,0 +1,5 @@
+/* Custom styles for My Custom Plugin */
+input[name="custom_text_field"] {
+    border: 2px solid #0073aa;
+    padding: 5px;
+}
