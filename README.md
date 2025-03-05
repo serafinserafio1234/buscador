@@ -1,2 +1,2 @@
 # buscador
-plugin de buscador para academis
+plugin de buscador para academia
