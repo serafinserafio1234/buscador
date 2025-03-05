@@ -9,3 +9,7 @@ https://es.php.brj.cz/metodos-de-envio-de-datos-get-y-post
     
 //referencia
     https://andres-dev.com/wpdb-select/
+
+
+////descargan los archivos y los guardan en una caroeta luego esa carpeta la comprimen en formato .zip y con eso ya puede subir e intalar el plugin
+///se dejo un archivo sql que es la tabla que van a ocupar para guardar y consultar datos
